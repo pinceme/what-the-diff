@@ -1,3 +1,7 @@
-The Importance of Learning a Second Language
+a = 10
+b = 5
 
-In today’s china, being able to communicate in more than one language is an invaluable skill. Whether for professional or personal reasons, learning a second language offers a range of benefits that can enhance one’s life in various ways.
+# Perform arithmetic operations
+difference = a - b
+
+print(difference)
